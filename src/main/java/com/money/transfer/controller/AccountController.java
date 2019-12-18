@@ -61,10 +61,6 @@ public class AccountController {
     return router;
   }
 
-  private void getGreetings(RoutingContext ctx) {
-    ;
-  }
-
   private void createAccount(RoutingContext ctx) {
     vertx.executeBlocking(
         fut -> {
