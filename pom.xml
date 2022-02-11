@@ -10,7 +10,7 @@
 
   <properties>
     <jooq.version>3.12.0</jooq.version>
-    <vertx.version>3.8.4</vertx.version>
+    <vertx.version>3.9.4</vertx.version>
   </properties>
 
   <dependencies>
